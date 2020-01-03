@@ -1,4 +1,3 @@
-# Nuget Builds
 ![Nuget](https://img.shields.io/nuget/v/Xam.Plugin.SimpleColorPicker)
 
 
