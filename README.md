@@ -1,5 +1,5 @@
 # Nuget Builds
-[![xam-plugin-simplecolorpicker MyGet Build Status](https://www.myget.org/BuildSource/Badge/xam-plugin-simplecolorpicker?identifier=cf656f9c-eac3-47b5-a0a7-ddf71a1a5486)](https://www.myget.org/)
+![Nuget](https://img.shields.io/nuget/v/Xam.Plugin.SimpleColorPicker)
 
 
 # Simple Color Picker for Xamarin.Forms 
