@@ -1,4 +1,4 @@
-![Nuget](https://img.shields.io/nuget/v/Xam.Plugin.SimpleColorPicker)
+![Nuget](https://img.shields.io/nuget/v/Xam.Plugin.SimpleColorPicker) ![Nuget](https://img.shields.io/nuget/dt/Xam.Plugin.SimpleColorPicker)
 
 
 # Simple Color Picker for Xamarin.Forms 
