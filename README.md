@@ -11,8 +11,8 @@ Color picker control for Xamarin.Forms. It can be used as a large color mixer co
 
 # Credits! 
 I've only reworked some ui parts of the library of PetrVobornik!!!
-https://raw.githubusercontent.com/PetrVobornik/ColorPicker
+https://github.com/PetrVobornik/ColorPicker
 
 
 # Usage
-See https://raw.githubusercontent.com/PetrVobornik/ColorPicker for more info about usage!
+See https://github.com/PetrVobornik/ColorPicker for more info about usage!
